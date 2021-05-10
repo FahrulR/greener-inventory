@@ -12,7 +12,7 @@
     "expo": "^33.0.0",
     "expo-asset": "^6.0.0",
     "expo-linear-gradient": "~5.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
     "react-native-dialog": "^5.6.0",
